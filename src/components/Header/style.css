@@ -1,0 +1,11 @@
+/* tipo uma hierarquia. boa pratica*/
+header#main-header{
+    background: #381C38;
+    height: 80px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
